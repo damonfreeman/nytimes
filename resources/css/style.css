@@ -17,6 +17,7 @@ header {
   align-items: center;
   flex-grow: 1;
   padding-left: 30px;
+
 }
 
 .logo img {
@@ -40,4 +41,39 @@ nav span {
 
 a {
   color: black;
+}
+
+div {
+  border: 1px solid black;
+
+}
+
+.content {
+  padding-top: 116px;
+  width: 1232px;
+  display: flex;
+  margin: 0 auto 78px auto;
+
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32px;
+}
+
+.columnlarge {
+  width: 630px;
+}
+
+.columnmedium {
+  width: 300px;
+}
+
+.columnsmall {
+  width: 240px;
+}
+
+.earth {
+  height:
 }
